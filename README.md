@@ -1,3 +1,3 @@
 ## COUNTER.
 
-![Design preview for the page coding challenge](./images/counter2.png)
+![Design preview for the page coding challenge](./images/Counter2.png)
